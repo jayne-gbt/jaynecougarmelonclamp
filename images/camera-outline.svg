@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Camera outline</title>
+  <rect width="64" height="64" rx="8" fill="#000000"/>
+  <g fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 20h11l4-6h18l4 6h11a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V24a4 4 0 0 1 4-4Z"/>
+    <circle cx="32" cy="37" r="12"/>
+    <circle cx="32" cy="37" r="5"/>
+    <path d="M49 27h3"/>
+  </g>
+</svg>
